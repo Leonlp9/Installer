@@ -43,7 +43,7 @@ jobs:
           chmod +x VencordInstallerCli-linux
 
       - name: Upload artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: VencordInstaller-linux
           path: |
