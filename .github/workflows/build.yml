@@ -205,4 +205,4 @@ jobs:
           files: |
             linux/LeonsVencordInstallerCli-linux
             macos/LeonsVencordInstaller.MacOS.zip
-            windows/LeonsVencordInstaller*.exe
+            windows/LeonsVencordInstalle*.exe
