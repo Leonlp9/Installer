@@ -9,7 +9,7 @@
   "RT_MANIFEST": {
     "#1": {
       "0409": {
-        "description": "An Installer for the Vencord Discord Mod",
+        "description": "An installer for the forked Vencord Discord mod by Leon",
         "minimum-os": "win10",
         "execution-level": "as invoker",
         "dpi-awareness": "system"
