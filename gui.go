@@ -620,7 +620,7 @@ func loop() {
 		Layout(
 			g.Align(g.AlignCenter).To(
 				g.Style().SetFontSize(40).To(
-					g.Label("Vencord Installer"),
+					g.Label("Leons Vencord Fork Installer"),
 				),
 			),
 
